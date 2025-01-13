@@ -1,5 +1,5 @@
 #PUC
 
-# Hi This is Harish-Vidyarth
+This repository is handled by Harish-Vidyarth
 
-#This a folder contains Week 1 to 16 Moodle Programs
+#This folder contains Week 1 to 16 Moodle Programs
